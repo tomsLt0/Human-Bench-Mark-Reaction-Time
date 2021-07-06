@@ -10,6 +10,6 @@ How to Set Up On Windows:
         pip install win32api
         pip install win32con
 2. Go to https://humanbenchmark.com/tests/reactiontime
-3. Start the code
+3. Start Reaction-Time.py
 4. Start the reaction time test
 5. Wait.
